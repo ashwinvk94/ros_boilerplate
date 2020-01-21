@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>cat_dog</name>
+  <name>ros_boilerplate</name>
   <version>0.0.0</version>
   <description>Code base for catdog vehicle by Airgility Co.</description>
   <maintainer email="ashwin@airgility.co">Ashwin Varghese Kuruttukulam</maintainer>

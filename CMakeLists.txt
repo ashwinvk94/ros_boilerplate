@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(cat_dog)
+project(ros_boilerplate)
 
 macro(use_cxx11)
   if (CMAKE_VERSION VERSION_LESS "3.1")
